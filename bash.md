@@ -1,5 +1,11 @@
-[CheatSheets-Hub](https://naemazam.github.io/CheatSheets-Hub/)
-#  Bash Shortcut      
+[CheatSheets-Hub](https://cheatsheetshub.github.io/)
+#  Bash 
+- Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell. 
+- First released in 1989, it has been used as the default login shell for most Linux distributions. 
+- Bash can also read and execute commands from a file, called a shell script.
+- official [Repository](git.savannah.gnu.org/cgit/bash.git)
+
+
 **Menu**
  
  [SHORTCUTS](bash.md#shortcuts)  
